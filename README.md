@@ -1,4 +1,3 @@
-# .github
 # HaloSync
 
 **Beyond API — Travel Infrastructure as a Service**
