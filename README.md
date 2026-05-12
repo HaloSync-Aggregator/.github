@@ -45,4 +45,4 @@ These repositories demonstrate how OTAs can build flight booking products on top
 | Website | [halosync.kr](https://halosync.kr/) |
 | API Documentation | [doc.halo-platform.net](https://doc.halo-platform.net/) |
 | LinkedIn | [company/halocorpkr](https://www.linkedin.com/company/halocorpkr) |
-| Contact | contact@halosync.kr |
+| Contact | contact@halocorp.kr |
